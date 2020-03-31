@@ -60,7 +60,15 @@ body {
   width: 40px;
   border-radius: 100%;
 }
+
+
+
+
 /** body **/
+
+
+
+
 .search-wrapper {
   width: 600px;
   display: flex;
@@ -146,7 +154,14 @@ body {
 .search-buttons a:hover {
   border: 1px solid #8c8c8c;
 }
+
+
+
+
 /** footer **/
+
+
+
 .bottom-bar {
   display: flex;
   align-items: center;
